@@ -1,0 +1,24 @@
+{
+  "name": "okra-performance",
+  "version": "1.0.0",
+  "description": "okra-performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Okrajs/okra-performance.git"
+  },
+  "keywords": [
+    "okrajs",
+    "okra",
+    "performance"
+  ],
+  "author": "Omar Al-Ithawi <i@omardo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Okrajs/okra-performance/issues"
+  },
+  "homepage": "https://github.com/Okrajs/okra-performance"
+}
