@@ -1,7 +1,7 @@
 ;(function () {
   'use strict';
 
-  var origin = 'http://localhost:3000';
+  var origin = document.location.origin;
 
   window.addEventListener('message', function (event) {
     if (event.origin === origin) {

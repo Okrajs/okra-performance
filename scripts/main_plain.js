@@ -1,9 +1,19 @@
 ;(function () {
   'use strict';
 
+  var _referrerToOrigin = function () {
+      if (!document.referrer) {
+          return null;
+      }
+
+      var a = document.createElement('a');
+      a.href = document.referrer;
+      return a.origin;
+  };
+
   Perf.setViewElement(document.querySelector('#perf_results'));
 
-  var origin = 'http://localhost:3000';
+  var origin = _referrerToOrigin();
   var iframe = document.querySelector('[name=echo]');
   var iframeWindow = iframe.contentWindow;
 

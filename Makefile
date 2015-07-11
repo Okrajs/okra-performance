@@ -4,7 +4,9 @@
 all: browsersync
 
 browsersync:
-	./node_modules/.bin/browser-sync start --server --files="styles/*.css, scripts/*.js, *.html"
+	nodejs ./node_modules/.bin/browser-sync \
+	start --server \
+	--files="styles/*.css, scripts/*.js, *.html"
 
 basicserver:
 	xdg-open http://localhost:8080 &

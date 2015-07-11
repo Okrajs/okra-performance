@@ -17,7 +17,7 @@
       delete timers[name];
 
       if (viewElement) {
-        viewElement.innerHTML += '\n' + name + ': ' + value + 'ms';
+        viewElement.innerHTML += name + ': ' + value.toFixed(4) + 'ms' + '\n';
       }
 
       results.push({

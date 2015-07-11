@@ -6,7 +6,7 @@
 
   var echoInlet = Okra.inlet(
     'echo',
-    'http://localhost:3000'
+    document.location.origin
   );
 
   var i = 0;

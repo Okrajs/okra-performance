@@ -1,4 +1,10 @@
-iframe[name=echo] {
+iframe[name=echo], pre {
   width: 100%;
-  max-width: 450px;
+  max-width: 500px;
+  box-sizing: border-box;
+}
+
+pre {
+  background: silver;
+  padding: 1em 2em;
 }
