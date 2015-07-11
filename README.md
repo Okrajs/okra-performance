@@ -1,4 +1,4 @@
-# okra-performance
+# Okra Framework Performance Tests
 Performance test for Okra framework.
 
 ##Results Dataset
