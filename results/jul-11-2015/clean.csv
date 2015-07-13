@@ -1,0 +1,157 @@
+type,id,description,browser,timeMs,device,os,name
+plain,load,Initial load event,firefox-38.0,18.641089000000022,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2901.463589,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,33.63085699999999,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3999.6714930000007,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,10.537194,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3051.1102539999997,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,9.11272200000002,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2944.9415700000004,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,10.434648999999979,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2910.790357,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,88.84908999999993,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2780.062159,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,20.53942599999999,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3378.051755,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,54.570328000000075,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3018.4328100000002,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,17.654229000000043,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2870.400488,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,31.697484999999972,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,4096.145064999999,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,29.695525000000032,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2688.529993,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,5.971168999999975,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,2662.56939,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,23.488362999999993,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3674.960689,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,78.97956599999998,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3137.8230670000003,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,firefox-38.0,33.49315700000011,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,firefox-38.0,3748.994313,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,210.8029999944847,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1273.5570000077132,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,6.7820000112988055,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1198.5419999982696,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,126.47499999729916,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1178.2059999823105,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,102.9770000022836,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1220.6140000198502,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,96.63600000203587,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1210.3150000039022,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,82.7409999910742,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1217.2180000052322,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,91.16300000459887,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1194.1850000002887,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,160.20600000047125,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1164.1900000104215,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,83.22500000940636,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1218.3450000011362,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,227.66599999158643,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1137.271999992663,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,91.36300001409836,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1217.4709999817424,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,161.8810000072699,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1182.2570000076666,laptop,ubuntu-14.04-64bit,
+okra,load,Initial load event,firefox-38.0,89.38041799999996,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2391.357181,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,73.42879899999997,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2470.543693,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,68.96348599999999,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2317.751992,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,67.74641500000001,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2545.531488,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,97.18998300000004,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2275.2638559999996,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,149.21567,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2280.3317890000003,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,81.54492099999999,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2590.9550169999998,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,53.932164,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2440.8842210000003,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,76.936913,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2373.021875,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,63.14643700000005,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2514.051784,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,64.26184600000005,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2413.166793,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,firefox-38.0,115.45879300000001,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,firefox-38.0,2476.095067,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,337.0920000015758,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2393.5440000204835,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,161.13699998822995,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2538.018999999622,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,92.42100000847131,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2403.275999997277,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,237.236999993911,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2314.517999999225,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,100.15700000803918,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2332.9110000049695,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,216.19700000155717,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2304.1709999961313,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,109.05699999420904,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2332.231000007596,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,239.93199999677017,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2321.3399999949615,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,99.9160000064876,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2342.138000007253,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,86.86199999647215,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2315.0120000063907,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,261.25900002080016,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2326.835999992909,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,80.40899998741224,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2415.8499999903142,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,81.06500000576489,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2316.5659999940544,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,273.5090000205673,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2302.6979999849573,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,85.39200000814162,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2442.3290000122506,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,86.9830000156071,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2329.9779999942984,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,194.1730000253301,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2296.1620000132825,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,108.37699999683537,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2414.2379999975674,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,83.21199999772944,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2324.691999994684,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,104.15999998804182,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2350.20300000906,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,83.91000001574866,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2330.2379999950062,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,87.11500000208616,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2358.427999977721,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,148.49199997843243,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2304.705999995349,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,71.5409999829717,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2336.4789999905042,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,236.15099999005906,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2406.951000011759,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+okra,load,Initial load event,chrome-43.0,226.0859999805689,laptop,ubuntu-14.04-64bit,
+okra,10000-echo,,chrome-43.0,2333.203999995021,laptop,ubuntu-14.04-64bit,One 10000 Okra subsequent `get`
+plain,load,Initial load event,chrome-43.0,239.57100001280196,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1230.8180000109132,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,112.05500000505708,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1205.4290000232868,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,101.69800001312979,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1217.540999990888,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,98.28900001593865,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1165.8579999930225,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,99.20799999963492,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1170.719999994617,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,79.79499999783002,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1225.5570000270382,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,112.49299999326468,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1189.4299999985378,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,99.51500000897795,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1214.6910000010394,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,97.58000000147149,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1173.9530000195373,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,95.81800000160001,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1210.82400000887,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,113.92699999851175,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1191.9319999869913,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,10.578000015811995,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1325.672000006307,laptop,ubuntu-14.04-64bit,
+plain,load,Initial load event,chrome-43.0,210.87599999736995,laptop,ubuntu-14.04-64bit,
+plain,10000-echo,One 10000 postMessage subsequent `echo`,chrome-43.0,1139.3889999890234,laptop,ubuntu-14.04-64bit,
