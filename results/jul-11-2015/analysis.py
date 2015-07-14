@@ -1,4 +1,5 @@
 #!/usr/bin/python
+from os import path
 import json
 from pprint import pprint
 from sys import argv
@@ -6,11 +7,8 @@ import numpy as np
 from scipy.stats import ttest_ind
 import matplotlib.pyplot as plt
 
-try:
-    json_filename = argv[1]
-except IndexError:
-    print 'Please proivde a json file as arugment.'
-    raise
+my_dir = path.dirname(path.realpath(__file__))
+json_filename = path.join(my_dir, 'clean.json')
 
 try:
     data = json.load(open(json_filename))
@@ -86,8 +84,14 @@ class Stats(object):
     def plot(self):
         plain, okra = self.get_sets()
 
-        plt.plot(okra, 'r')
-        plt.plot(plain, 'b')
+        okra_plot = plt.plot(okra, 'ro')
+        plain_plot = plt.plot(plain, 'b')
+
+        plt.legend({
+            "Okra": okra_plot,
+            "postMessage": plain_plot,
+        })
+
         plt.xlabel('Frequency')
         plt.ylabel('Time in Milliseconds')
 
@@ -95,16 +99,18 @@ class Stats(object):
             plt.title(self.title)
 
         plt.show()
+        plt.savefig('{my_dir}/{browser}-{test_id}.png'.format(
+            my_dir=my_dir,
+            browser=self.browser,
+            test_id=self.test_id,
+        ))
 
 
 echo10k_chrome = Stats(
     data=data,
     browser='chrome',
     test_id='10000-echo',
-    title=(
-        'Time to exchange 10,000 messages in Chrome\n'
-        'using Okra (red) and plain postMessage (blue)'
-    ),
+    title='Time to exchange 10,000 messages in Chrome',
 )
 
 echo10k_chrome.ttest()
@@ -115,10 +121,7 @@ load_chrome = Stats(
     data=data,
     browser='chrome',
     test_id='load',
-    title=(
-        'Time to get the first `childLoad` event in Chrome\n'
-        'using Okra (red) and plain postMessage (blue)'
-    ),
+    title='Time to get the first `childLoad` event in Chrome',
 )
 
 load_chrome.ttest()
@@ -129,10 +132,7 @@ echo10k_firefox = Stats(
     data=data,
     browser='firefox',
     test_id='10000-echo',
-    title=(
-        'Time to exchange 10,000 messages in Firefox\n'
-        'using Okra (red) and plain postMessage (blue)'
-    ),
+    title='Time to exchange 10,000 messages in Firefox',
 )
 
 echo10k_firefox.ttest()
@@ -143,10 +143,7 @@ load_firefox = Stats(
     data=data,
     browser='firefox',
     test_id='load',
-    title=(
-        'Time to get the first `childLoad` event in Firefox\n'
-        'using Okra (red) and plain postMessage (blue)'
-    ),
+    title='Time to get the first `childLoad` event in Firefox',
 )
 
 load_firefox.ttest()

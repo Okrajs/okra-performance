@@ -12,8 +12,12 @@ basicserver:
 	xdg-open http://localhost:8080 &
 	python -m SimpleHTTPServer 8080
 
-ttest:
-	python ttest.py results/jul-11-2015-clean.json
+ttest_okra_vs_plain:
+	python results/jul-11-2015/analysis.py
+
+ttest_plain_vs_native:
+	python results/jul-13-2015/analysis.py
+
 
 install_py_reqs:
 	sudo apt-get install python-numpy python-scipy python-matplotlib
