@@ -98,12 +98,12 @@ class Stats(object):
         if self.title:
             plt.title(self.title)
 
-        plt.show()
         plt.savefig('{my_dir}/{browser}-{test_id}.png'.format(
             my_dir=my_dir,
             browser=self.browser,
             test_id=self.test_id,
         ))
+        plt.show()
 
 
 echo10k_chrome = Stats(
