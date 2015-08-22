@@ -85,7 +85,7 @@ class Stats(object):
         plain, okra = self.get_sets()
 
         okra_plot = plt.plot(okra, 'ro')
-        plain_plot = plt.plot(plain, 'b')
+        plain_plot = plt.plot(plain, 'b*')
 
         plt.legend({
             "Okra": okra_plot,
